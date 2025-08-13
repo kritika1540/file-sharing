@@ -20,3 +20,7 @@ The symmetric key is used to decrypt the file.
 
 
 <img width="665" height="306" alt="image" src="https://github.com/user-attachments/assets/470f185a-76b2-48bc-add8-4298043e996c" />
+
+
+<img width="704" height="584" alt="image" src="https://github.com/user-attachments/assets/d02288ba-b15f-4158-90d3-74f8d2c348c2" />
+
